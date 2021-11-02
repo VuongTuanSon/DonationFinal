@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/settingsFragment"
+        android:title="@string/settings" />
+    <item
+        android:id="@+id/reportFragment"
+        android:title="@string/report" />
+    <item
+        android:id="@+id/donateMenu"
+        android:title="@string/donateMenu" />
+    <item
+        android:id="@+id/menuReset"
+        android:title="@string/menuReset" />
+</menu>
